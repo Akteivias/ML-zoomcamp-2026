@@ -1,0 +1,16 @@
+# virtual environment
+.venv/
+
+# python
+__pycache__/
+*.py[cod]
+
+# jupyter
+.ipynb_checkpoints/
+
+# secrets
+.env
+*.pem
+
+# os
+.DS_Store
