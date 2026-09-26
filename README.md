@@ -16,4 +16,4 @@ Run
 uv run jupyter notebook
 ```
 
-Then open 01-intro/homework.ipynb.
+Then open the corresponding `.ipynb` file.
